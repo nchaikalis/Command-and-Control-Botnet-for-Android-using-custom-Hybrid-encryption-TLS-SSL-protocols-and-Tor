@@ -1,0 +1,6 @@
+Gia to Botnet:
+	to project me onoma Botnet_Libs to kanume import san project se ola ta java project tou Botnet ektos 
+	tou android einai koines classes pou xrisimopoiun ola ta projects.
+Gia to DTLS:
+	to project me onoma DTLSLibs to kanume import san project se ola ta java project tou DTLS omoios 
+	einai koines classes pou xrisimopoiun kai ta projects.
